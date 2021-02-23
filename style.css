@@ -1,0 +1,38 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+direction: ltr;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+background-color: burlywood;
+}
+p{
+    background-color: cornflowerblue;
+}
+
+.toyota{
+    background-color: aqua;
+}
+
+.toyota-lest{
+ list-style: none;   
+}
+
+.toyota-item{
+display: inline-block;
+height: 50px;
+width: 8rem;
+line-height: 50px;
+text-align: center;
+}
+.toyota-link {
+text-decoration: none;
+color: rgb(98, 216, 30);
+display: block;
+}
+
+.toyota-item:hover{
+ background-color: rgb(223, 223, 18);
+ transition: .3s;
+}
