@@ -1,5 +1,5 @@
 
-alert ("hello")
+alert ("hello") ;
 // function myfunction () {
 //     for (i = 0; i < 20; i++) {
 //         var x = prompt ("put 20");
